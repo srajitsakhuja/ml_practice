@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pymon
+Version: 1.1
+Summary: Application monitoring in Python
+Home-page: https://github.com/curtis99877/pymon
+Author: Curtis Li
+Author-email: curtis.li@nyu.edu
+License: UNKNOWN
+Download-URL: https://github.com/curtis99877/pymon/tarball/v1.1
+Description: UNKNOWN
+Keywords: web,application,server,dev,tools,monitor,restart
+Platform: UNKNOWN
